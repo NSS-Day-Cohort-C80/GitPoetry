@@ -1,4 +1,4 @@
 Roses are pink.
-Orange are blue.
+Violets are blue.
 Github is beautiful
 And so are you.
